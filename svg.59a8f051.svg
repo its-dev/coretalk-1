@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="681px" viewBox="-0.5 -0.5 681 682">
+    <g>
+        <ellipse cx="340" cy="340" rx="200" ry="200" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(290.5,313.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 97px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Business<div>Model</div></div>
+                    </div>
+                </foreignObject>
+                <text x="49" y="37" text-anchor="middle">[Not supported by viewer]</text>
+            </switch>
+        </g>
+        <ellipse cx="340" cy="80" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(295.5,66.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 1</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 1</text>
+            </switch>
+        </g>
+        <ellipse cx="340" cy="600" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(295.5,586.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 5</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 5</text>
+            </switch>
+        </g>
+        <ellipse cx="600" cy="340" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(555.5,326.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 3</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 3</text>
+            </switch>
+        </g>
+        <ellipse cx="80" cy="340" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(35.5,326.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 7</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 7</text>
+            </switch>
+        </g>
+        <ellipse cx="170" cy="170" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(125.5,156.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 8</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 8</text>
+            </switch>
+        </g>
+        <ellipse cx="510" cy="170" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(465.5,156.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 2</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 2</text>
+            </switch>
+        </g>
+        <ellipse cx="510" cy="510" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(465.5,496.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 4</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 4</text>
+            </switch>
+        </g>
+        <ellipse cx="170" cy="510" rx="80" ry="80" fill="#f5f5f5" stroke="#666666" pointer-events="none" />
+        <g transform="translate(125.5,496.5)">
+            <switch>
+                <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 22px; font-family: Verdana; color: rgb(0, 105, 209); line-height: 1.2; vertical-align: top; width: 87px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Stage 6</div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="23" text-anchor="middle">Stage 6</text>
+            </switch>
+        </g>
+    </g>
+</svg>
